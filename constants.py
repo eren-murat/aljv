@@ -1,0 +1,5 @@
+MAP_SIZE = 4
+INIT_POPULATION_SIZE = 8
+MUTATION_RATE = 0.3
+NUM_GENERATIONS_SIMULATED = 10
+NUM_TRAITS = 5 # size, stamina, strength, speed, smartness
